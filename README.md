@@ -1,4 +1,4 @@
-# Projct Name: Real-Time Chat Application
+# Real-Time Chat Application
 
 ## Project Overview
 This project involves developing a simple yet effective real-time chat application. It aims to demonstrate skills in Java, understanding of networking concepts, and the ability to implement real-time communication.
